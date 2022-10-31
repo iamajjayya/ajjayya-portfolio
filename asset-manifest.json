@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ajjayya-portfolio/static/css/main.7ed16b2c.css",
+    "main.js": "/ajjayya-portfolio/static/js/main.397c6e2b.js",
+    "static/js/787.aabd57f0.chunk.js": "/ajjayya-portfolio/static/js/787.aabd57f0.chunk.js",
+    "static/media/ajr.pdf": "/ajjayya-portfolio/static/media/ajr.6e9aafdca78aa20a9f5d.pdf",
+    "static/media/AJ.png": "/ajjayya-portfolio/static/media/AJ.dd26e628fd172efeb5cc.png",
+    "static/media/sslc.jpg": "/ajjayya-portfolio/static/media/sslc.de9444ceaffa6b89936a.jpg",
+    "static/media/ba.png": "/ajjayya-portfolio/static/media/ba.4e2d035537f4fa74d49e.png",
+    "static/media/vi.png": "/ajjayya-portfolio/static/media/vi.ffbac92f25282efdfb79.png",
+    "static/media/pu.png": "/ajjayya-portfolio/static/media/pu.41e2304c76ed4467a3dd.png",
+    "static/media/bu.jpg": "/ajjayya-portfolio/static/media/bu.82d7b60edcbc2c45acbd.jpg",
+    "index.html": "/ajjayya-portfolio/index.html",
+    "main.7ed16b2c.css.map": "/ajjayya-portfolio/static/css/main.7ed16b2c.css.map",
+    "main.397c6e2b.js.map": "/ajjayya-portfolio/static/js/main.397c6e2b.js.map",
+    "787.aabd57f0.chunk.js.map": "/ajjayya-portfolio/static/js/787.aabd57f0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ed16b2c.css",
+    "static/js/main.397c6e2b.js"
+  ]
+}
