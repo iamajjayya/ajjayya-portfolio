@@ -27,7 +27,7 @@ const Education = () => {
          
             <span className='card__category'>Bacehlor of Computer Application</span>
             <h3 className='card__title'>College : AMC College </h3>
-            <h3>82%</h3>
+            <h3>86%</h3>
         
         </div>
       </div>
@@ -47,7 +47,7 @@ const Education = () => {
           <div className="card__info">
             <span className='card__category'>SSLC</span>
             <h3 className='card__title'>College : LOYOLA School</h3>
-            <h3>82%</h3>
+            <h3>64.4%</h3>
           </div>
         </div>
       </div>
